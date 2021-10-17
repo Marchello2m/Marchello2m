@@ -12,6 +12,9 @@ Programming has shown me how I can develop new programms and how to customize ex
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+Marchello2m@gmail.com
+Phone:+37124841997
+
 
 <!---
 Marchello2m/Marchello2m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
