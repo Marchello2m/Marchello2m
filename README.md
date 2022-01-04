@@ -8,6 +8,10 @@ After 10 years in the property management field I have decided to change my care
 My choice fell to programming since I like to solve problems and I like to create new things. 
 Programming has shown me how I can develop new programms and how to customize existing code to suit other purposes.
 
+# Projects
+
+---
+
 <details><summary>👉 Voting-app</summary>
     <p>
 https://github.com/Marchello2m/Voting-app
