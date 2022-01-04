@@ -1,3 +1,8 @@
+
+# About me
+
+---
+
 - 👋 Hi, I’m @Marchello2m 
 I had been with my previous employer for 10 years. In this time I have learned skills that will serve me well in the current career path as well. 
 I consider myself a loyal and punctual employee.
@@ -8,6 +13,7 @@ After 10 years in the property management field I have decided to change my care
 My choice fell to programming since I like to solve problems and I like to create new things. 
 Programming has shown me how I can develop new programms and how to customize existing code to suit other purposes.
 
+---
 # Projects
 
 ---
@@ -22,9 +28,17 @@ https://github.com/Marchello2m/Voting-app
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+<details><summary>- 📫 How to reach me ...</summary>
+    <p>
 Marchello2m@gmail.com
 Phone:+37124841997
+</p>
+
+</details>
+
+
+
 
 
 <!---
