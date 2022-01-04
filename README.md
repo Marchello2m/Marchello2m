@@ -25,11 +25,8 @@ https://github.com/Marchello2m/Voting-app
 
 </details>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 
-<details><summary>- 📫 How to reach me ...</summary>
+# <details><summary>- 📫 How to reach me ...</summary>
     <p>
 -Marchello2m@gmail.com
 -Phone:+37124841997
