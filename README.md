@@ -31,8 +31,8 @@ https://github.com/Marchello2m/Voting-app
 
 <details><summary>- 📫 How to reach me ...</summary>
     <p>
-Marchello2m@gmail.com
-Phone:+37124841997
+-Marchello2m@gmail.com
+-Phone:+37124841997
 </p>
 
 </details>
