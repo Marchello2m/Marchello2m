@@ -25,6 +25,7 @@ https://github.com/Marchello2m/Voting-app
 
 </details>
 
+--- 
 
 # <details><summary>- 📫 How to reach me ...</summary>
     <p>
