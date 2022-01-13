@@ -34,7 +34,8 @@ https://github.com/Marchello2m/Voting-app
 </p>
 
 </details>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marchello2m)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MArchello2m&bg_color=DEG,COLOR1,COLOR2,COLOR3)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Marchello2m/Marchello2m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
