@@ -34,8 +34,7 @@ https://github.com/Marchello2m/Voting-app
 </p>
 
 </details>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marchello2m)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marchello2m)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Marchello2m/Marchello2m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
