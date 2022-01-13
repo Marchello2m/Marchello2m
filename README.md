@@ -36,7 +36,7 @@ https://github.com/Marchello2m/Voting-app
 </details>
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marchello2m)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
